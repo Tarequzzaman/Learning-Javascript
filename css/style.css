@@ -1,9 +1,19 @@
 h1 {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
+    color: blueviolet;
+    /* background-color: yellow; */
+    border: 1px solid blueviolet;
 }
 
 p {
-    color: red;
+    /* color: red; */
+    font-weight: 200;
+    color: blueviolet;
+    font-size: 200%;
+}
+
+.tareq {
+    border-bottom: 2px solid purple;
+    font-weight: bold;
+    font-weight: 200%;
+    font-size: 1.5em;
 }
